@@ -2,25 +2,27 @@ package com.stackroute.pe1;
 import java.util.Scanner;
 
 public class VowelConsonant {
-    public static void main(String[]args)
+    public String vowelOrConsonant(String word)
     {
-        Scanner sc=new Scanner(System.in);
-        System.out.println("Enter the word");
-        String input=sc.nextLine();
-        String word=input.toLowerCase();
+        if(word==null)
+        {
+            return "enter non empty string";
+        }
+        String result="";
+
+        word=word.toLowerCase();
         int lengthOfString=word.length();
         for(int i=0;i<lengthOfString;i++)
         {
             char ch=word.charAt(i);
             if(ch == 'a' || ch == 'e' || ch == 'i'
                     || ch == 'o' || ch == 'u') {
-                System.out.print("vowel");
+                result+="vowel";
             }
             else
-                System.out.print("consonant");
+                result+="consonant";
         }
-        System.out.println();
-
+        return result;
     }
 
 }
