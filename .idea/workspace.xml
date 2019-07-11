@@ -1,41 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09c3373f-f396-4c0f-a380-28fc444cf7b6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/CapitalSmallLetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/ConditionalLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Iteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/NumberGuess.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SortedNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/StringReverse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SubstringRepeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/VowelConsonant.java" afterDir="false" />
+    <list default="true" id="09c3373f-f396-4c0f-a380-28fc444cf7b6" name="Default Changelist" comment="A">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/JunitDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/CapitalSmallLetterTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/ConditionalLoopTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/IterationTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/JunitDemoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/StringReverseTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Java_Assignments.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Java_Assignments.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Assignments/com/stackroute/Add.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Assignments/com/stackroute/AddIntegers.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Assignments/com/stackroute/Iteration.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Assignments/com/stackroute/NumberGuess.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Assignments/com/stackroute/Palindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Assignments/com/stackroute/SmallCapital.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Assignments/com/stackroute/SortDecreasing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Assignments/com/stackroute/StringRepeat.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Assignments/com/stackroute/StringReverse.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Assignments/com/stackroute/TomJerry.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Java_Assignments/com/stackroute/VowelConsonent.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/Add.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/AddIntegers.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/Iteration.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/NumberGuess.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/Palindrome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/Palindrome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/SmallCapital.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/SortDecreasing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/StringRepeat.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/StringReverse.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/TomJerry.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/VowelConsonent.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -61,7 +34,7 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/StringReverseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
+            <state relative-caret-position="-125">
               <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
               <folding>
                 <element signature="e#248#249#0" expanded="true" />
@@ -342,6 +315,14 @@
       <option name="presentableId" value="Default" />
       <updated>1562759460418</updated>
     </task>
+    <task id="LOCAL-00001" summary="Adding Java JUnit testing exercise">
+      <created>1562865591165</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1562865591165</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -434,6 +415,10 @@
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
     </layout-to-restore>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Adding Java JUnit testing exercise" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding Java JUnit testing exercise" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -626,7 +611,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/StringReverseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
+        <state relative-caret-position="-125">
           <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
           <folding>
             <element signature="e#248#249#0" expanded="true" />
