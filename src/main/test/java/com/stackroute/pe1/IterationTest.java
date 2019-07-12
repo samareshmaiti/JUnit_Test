@@ -7,41 +7,53 @@ import static org.junit.Assert.*;
 public class IterationTest {
 
     Iteration iteration;
+
+
     @Before
-    public void setup() {
-        System.out.println("Inside before");
+    public void setUp() {
         this.iteration = new Iteration();
     }
+
+    @Test
+    public void givenNumberShouldReturnAnArray() {
+        //act
+        int[] actualResult = this.iteration.printer(7);
+        //assert
+        int[] expectedResult = {1, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 5,
+                6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7};
+        assertArrayEquals(expectedResult, actualResult);
+    }
+
+    @Test
+    public void givenNumberShouldReturnAnArrayOfLengthOne() {
+        //act
+        int[] actualResult = this.iteration.printer(1);
+        //assert
+        int[] expectedResult = {1};
+        assertArrayEquals(expectedResult, actualResult);
+    }
+
+    @Test (expected = OutOfMemoryError.class)
+    public void givenNumberShouldReturnAnOutOfMemoryError() {
+        //act
+        int[] actualResult = this.iteration.printer(100000000);
+    }
+
+    @Test
+    public void givenNumberShouldReturnAnEmptyArray() {
+        //act
+        int[] actualResult = this.iteration.printer(0);
+        //assert
+        int[] expectedResult = {};
+        assertArrayEquals(expectedResult, actualResult);
+    }
     @After
-    public void tearDown()
-    {
-        System.out.println("inside after");
-        this.iteration =new Iteration();
-    }
-    @BeforeClass
-    public static void beforeClass()
-
-    {
-        System.out.println("Before class");
-    }
-
-    @AfterClass
-
-    public static void afterClass()
-    {
-        System.out.println("After class");
-    }
-
-    @Test
-    public void givenInputZeroShouldShowAssertionError() {
-        int actualResult= iteration.showIteration(0);
-        assertEquals("AssertionError", actualResult);
-    }
-    @Test
-    public void givenInputGreaterThanZeroShouldShowOutput() {
-        int actualResult= iteration.showIteration(6);
-        assertEquals("122333444455555", actualResult);
+    public void tearDown(){
+        iteration = null;
     }
 
 
 }
+
+
+

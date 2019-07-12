@@ -3,18 +3,18 @@ import java.util.Scanner;
 
 public class Iteration {
 
-    public int showIteration(int number) {
-        int result = number;
-
-        for (int j = 1; j <= number; j++) {
-            for (int i = 1; i <= j; i++) {
-                result = j;
+    public int[] printer(int number){
+        int initialSize = 0;
+        int initialIndex = 0;
+        for (int i = 1; i <= number; i++)
+            initialSize += i;
+        int[] resultArray = new int[initialSize];
+        for (int i = 1; i <= number; i++){
+            for (int j = 0; j < i; j++) {
+                resultArray[initialIndex] = i;
+                initialIndex++;
             }
-
-
         }
-        System.out.println(result);
-        return result;
-
+        return resultArray;
     }
 }
