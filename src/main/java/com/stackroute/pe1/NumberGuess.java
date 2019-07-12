@@ -7,8 +7,8 @@ public class NumberGuess {
         String result="fdhgj";
         //Scanner sc = new Scanner(System.in);
         int number1 = 30;
-        boolean guess = true;
-        while (guess==false) {
+        boolean guess=false;
+        do {
 
             //System.out.println("Enter a number");
             //int number = sc.nextInt();
@@ -21,6 +21,7 @@ public class NumberGuess {
                 result="you put the correct number and number is";
 
         }
+        while(guess==true);
         return result;
     }
 
