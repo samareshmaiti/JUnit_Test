@@ -17,7 +17,7 @@ public class PalindromeTest {
     @After
     public void tearDown()
     {
-        this.palindrome=new Palindrome();
+        //this.palindrome=new Palindrome();
     }
     @Test
     public void givenInputAndShouldShowProperOutput() {

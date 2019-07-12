@@ -1,15 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09c3373f-f396-4c0f-a380-28fc444cf7b6" name="Default Changelist" comment="">
+    <list default="true" id="09c3373f-f396-4c0f-a380-28fc444cf7b6" name="Default Changelist" comment="Changes in NUmberGuess.java,NumberGuessTest.java">
       <change afterPath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/SumOfElementsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Iteration.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Iteration.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/NumberGuess.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/NumberGuess.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SubstringRepeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SubstringRepeat.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SumOfElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SumOfElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/IterationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/IterationTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/NumberGuessTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/NumberGuessTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/PalindromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/PalindromeTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/SubstringRepeatTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/SubstringRepeatTest.java" afterDir="false" />
     </list>
@@ -390,7 +385,21 @@
       <option name="project" value="LOCAL" />
       <updated>1562911644635</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Changes in iteration.java,IterationTest.java">
+      <created>1562925095341</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1562925095341</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Changes in NUmberGuess.java,NumberGuessTest.java">
+      <created>1562925219525</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1562925219525</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -427,7 +436,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="27" width="1296" height="741" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
@@ -495,7 +503,9 @@
     <MESSAGE value="Adding test files of VowelConsonant.java" />
     <MESSAGE value="Adding new test files to github" />
     <MESSAGE value="Changing file name to Capital letter" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changing file name to Capital letter" />
+    <MESSAGE value="Changes in iteration.java,IterationTest.java" />
+    <MESSAGE value="Changes in NUmberGuess.java,NumberGuessTest.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes in NUmberGuess.java,NumberGuessTest.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
