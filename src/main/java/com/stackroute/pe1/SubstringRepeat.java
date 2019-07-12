@@ -1,7 +1,7 @@
 package com.stackroute.pe1;
 import java.util.Scanner;
 
-public class substringRepeat {
+public class SubstringRepeat {
 
     public String substringConcat(String str,int number)
     {

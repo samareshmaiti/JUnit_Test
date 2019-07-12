@@ -5,17 +5,17 @@ import org.junit.*;
 import static org.junit.Assert.*;
 
 public class SubstringRepeatTest {
-   substringRepeat substringRepeat1;
+   SubstringRepeat substringRepeat1;
     @Before
     public void setup() {
         System.out.println("Inside before");
-        this.substringRepeat1= new substringRepeat();
+        this.substringRepeat1= new SubstringRepeat();
     }
     @After
     public void tearDown()
     {
         System.out.println("inside after");
-        this.substringRepeat1=new substringRepeat();
+        this.substringRepeat1=new SubstringRepeat();
     }
     @BeforeClass
     public static void beforeClass()
