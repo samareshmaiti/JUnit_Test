@@ -15,7 +15,7 @@ public class SubstringRepeatTest {
     public void tearDown()
     {
         System.out.println("inside after");
-        this.substringRepeat1=new SubstringRepeat();
+        //this.substringRepeat1=new SubstringRepeat();
     }
     @BeforeClass
     public static void beforeClass()
