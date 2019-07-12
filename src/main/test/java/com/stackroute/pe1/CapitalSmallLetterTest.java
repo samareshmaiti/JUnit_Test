@@ -36,10 +36,11 @@ public class CapitalSmallLetterTest {
             String actualResult=capitalSmallLetter.findType('A');
         assertEquals("Capital Letter", actualResult);
     }
+
     @Test
     public void givenInputShouldReturnTypeOfSmallLetter() {
         String actualResult=capitalSmallLetter.findType('b');
-        assertEquals("Small letter", actualResult);
+        assertEquals("small letter", actualResult);
     }
     @Test
     public void givenInputShouldReturnTypeOfDigit() {
@@ -54,6 +55,6 @@ public class CapitalSmallLetterTest {
     @Test
     public void givenInputShouldBeNotNull() {
         String actualResult = capitalSmallLetter.findType('.');
-        assertEquals("string should be not nul",actualResult);
+        assertNotNull("string should be not nul",actualResult);
     }
 }

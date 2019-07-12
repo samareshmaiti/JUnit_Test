@@ -2,24 +2,26 @@ package com.stackroute.pe1;
 import java.util.Scanner;
 
 public class NumberGuess {
-    public static void main(String args[]) {
-
-        Scanner sc = new Scanner(System.in);
+    public String  numberGuessing(int number)
+    {
+        String result="fdhgj";
+        //Scanner sc = new Scanner(System.in);
         int number1 = 30;
-        boolean guess = false;
-        while (guess == false) {
+        boolean guess = true;
+        while (guess==false) {
 
-            System.out.println("Enter a number");
-            int number = sc.nextInt();
+            //System.out.println("Enter a number");
+            //int number = sc.nextInt();
 
             if (number > number1)
-                System.out.println("given number is larger");
+                result="given number is larger";
             else if (number < number1)
-                System.out.println("given number is lesser");
-            else
-                System.out.println("you put the correct number and number is" + number1);
+                result="given number is lesser";
+            else if(number==30)
+                result="you put the correct number and number is";
 
         }
+        return result;
     }
 
 }

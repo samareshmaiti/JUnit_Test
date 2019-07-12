@@ -16,7 +16,7 @@ public class ConditionalLoop {
             result="Jerry";
         }
         else
-            result="out of range";
+            result="Out of range";
         return result;
     }
 }

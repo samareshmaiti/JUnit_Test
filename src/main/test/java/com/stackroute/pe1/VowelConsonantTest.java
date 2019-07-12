@@ -32,7 +32,7 @@ public class VowelConsonantTest {
     @Test
     public void givenStringShouldReturnTheResult() {
         String actualResult = vowelConsonant.vowelOrConsonant("Hello");
-        assertEquals("consonantvowelconsonantconsonantvowel", actualResult);
+        assertEquals("consonanvowelconsonantconsonantvowel", actualResult);
     }
     @Test
     public void givenStringShouldReturnEnterNonEmptyString() {
