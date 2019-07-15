@@ -12,6 +12,12 @@ public class SumOfElementsTest {
         this.sumOfElements = new SumOfElements();
     }
 
+    @BeforeClass
+    public static void beforeClass()
+    {
+        System.out.println("Before class");
+    }
+
     @Test
     public void givenStringShouldReturnATotal() {
         //act
@@ -42,5 +48,11 @@ public class SumOfElementsTest {
     @After
     public void tearDown(){
         sumOfElements = null;
+    }
+    @AfterClass
+
+    public static void afterClass()
+    {
+        System.out.println("After class");
     }
 }
