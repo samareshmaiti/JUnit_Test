@@ -1,7 +1,5 @@
 package com.stackroute.pe1;
-import java.util.Scanner;
-
-public class SortedNumbers {
+public class SortedDigits {
     public int digitSorting(int number)
     {
         if(number==0)
@@ -29,9 +27,6 @@ public class SortedNumbers {
                 reverse = reverse * 10 + digit;
                  number1 /= 10;
         }
-
-
-       // System.out.println(reverse);
-        return reverse;
+         return reverse;
     }
 }

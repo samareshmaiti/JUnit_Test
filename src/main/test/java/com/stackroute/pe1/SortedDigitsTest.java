@@ -4,17 +4,17 @@ import org.junit.*;
 
 import static org.junit.Assert.*;
 
-public class SortedNumbersTest {
-    SortedNumbers sortedNumbers;
+public class SortedDigitsTest {
+    SortedDigits sortedDigits;
     @Before
     public void setUp()
     {
-        this.sortedNumbers=new SortedNumbers();
+        this.sortedDigits =new SortedDigits();
     }
     @After
     public void tearDown()
     {
-        sortedNumbers=null;
+        sortedDigits =null;
     }
     @BeforeClass
     public static void beforeClass()
@@ -31,17 +31,23 @@ public class SortedNumbersTest {
 
     @Test
     public void givenNumberShouldReturnTheReverseOfActual() {
-        int actualResult = sortedNumbers.digitSorting(541287);
-        assertEquals("875421", actualResult);
+        //act
+        int actualResult = sortedDigits.digitSorting(145123);
+        //assert
+        assertEquals(112345, actualResult);
     }
     @Test
     public void givenNumberShouldReturnTheActual() {
-        int actualResult = sortedNumbers.digitSorting(541287);
-        assertEquals("124587", actualResult);
+        //act
+        int actualResult = sortedDigits.digitSorting(541287);
+        //assert
+        assertEquals(124578, actualResult);
     }
     @Test
     public void givenNumberShouldNotZero() {
-        int actualResult = sortedNumbers.digitSorting(0);
-        assertEquals("You gave 0", actualResult);
+        //act
+        int actualResult = sortedDigits.digitSorting(0);
+        //assert
+        assertEquals(0, actualResult);
     }
 }
