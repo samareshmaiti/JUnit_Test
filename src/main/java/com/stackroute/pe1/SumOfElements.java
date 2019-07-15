@@ -1,25 +1,24 @@
 package com.stackroute.pe1;
-import java.util.Scanner;
 public class SumOfElements {
 
 
-        public String  sumOfIntegerValue(String input)
+        public String  sumOfIntegerValue(String inputString)
         {
-            String[] array = input.split(" ");
+            String[] splitInput = inputString.split(" ");
             boolean find = true;
             int sum = 0;
-            for (String str: array) {
-                for (int i = 0; i < str.length(); i++){
-                    if ( (!(Character.isDigit(str.charAt(i)))) &&
-                            (str.charAt(i) != '-') &&
-                            (str.charAt(i) != '+')){
+            for (String string: splitInput) {
+                for (int i = 0; i < string.length(); i++){
+                    if ( (!(Character.isDigit(string.charAt(i)))) &&
+                            (string.charAt(i) != '-') &&
+                            (string.charAt(i) != '+')){
                         find = false;
                     }
 
                 }
             }
             if (find){
-                for (String str: array){
+                for (String str: splitInput){
                     sum += Integer.parseInt(str);
                 }
                 return String.valueOf(sum);

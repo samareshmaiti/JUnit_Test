@@ -1,22 +1,22 @@
 package com.stackroute.pe1;
 public class CapitalSmallLetter {
 
-    public String findType(char ch)
+    public String findType(char inputCharacter)
     {
 
-        if(ch>=65 && ch<=90)
+        if(inputCharacter>=65 && inputCharacter<=90)
         {
             return "Capital Letter";
         }
-        if(ch>=97 && ch<=122)
+        if(inputCharacter>=97 && inputCharacter<=122)
         {
             return "Small Letter";
         }
-        if(ch>=48 && ch<=57)
+        if(inputCharacter>=48 && inputCharacter<=57)
         {
             return "Digit";
         }
-        if(ch>=32 && ch<=47) {
+        if(inputCharacter>=32 && inputCharacter<=47) {
 
             return "Special Character";
         }

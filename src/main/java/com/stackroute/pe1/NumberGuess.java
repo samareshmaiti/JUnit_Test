@@ -4,21 +4,21 @@ import java.util.Scanner;
 public class NumberGuess {
     public String  numberGuessing(int number)
     {
-        String result="";
+        String resultString="";
         int number1 = 30;
         boolean guess=false;
         do {
 
             if (number > number1)
-                result="given number is larger";
+                resultString="given number is larger";
             else if (number < number1)
-                result="given number is lesser";
+                resultString="given number is lesser";
             else if(number==30)
-                result="you put the correct number and number is";
+                resultString="you put the correct number and number is";
 
         }
         while(guess==true);
-        return result;
+        return resultString;
     }
 
 }

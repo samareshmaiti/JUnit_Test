@@ -3,25 +3,25 @@ import java.util.Scanner;
 
 public class SubstringRepeat {
 
-    public String substringConcat(String str,int number)
+    public String substringConcat(String inputString,int number)
     {
-        if(str==null)
+        if(inputString==null)
         {
             return "string must be non null";
         }
-        if(str.length()<number)
+        if(inputString.length()<number)
         {
             return "string must be larger than the number";
         }
-        String result="";
-        int lengthOfString=str.length();
-        String sub=str.substring(lengthOfString-number,lengthOfString);
+        String resultString="";
+        int lengthOfString=inputString.length();
+        String subString=inputString.substring(lengthOfString-number,lengthOfString);
 
         for(int i=0;i<number;i++)
         {
-            result+=sub;
+            resultString+=subString;
         }
-        return str.concat(result);
+        return inputString.concat(resultString);
 
     }
 }

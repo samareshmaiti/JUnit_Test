@@ -2,17 +2,17 @@ package com.stackroute.pe1;
 import java.util.Scanner;
 
 public class StringReverse {
-    public String reverseOfString(String str)
+    public String reverseOfString(String inputString)
     {
-        if(str==null)
+        if(inputString==null)
         {
            return "String should be not null";
         }
         String reverseString = "";
 
-        for(int i = str.length() - 1; i >= 0; i--)
+        for(int i = inputString.length() - 1; i >= 0; i--)
         {
-            reverseString = reverseString + str.charAt(i);
+            reverseString = reverseString + inputString.charAt(i);
         }
         return reverseString;
     }
