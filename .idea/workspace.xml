@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09c3373f-f396-4c0f-a380-28fc444cf7b6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/CapitalSmallLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/CapitalSmallLetter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/ConditionalLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/ConditionalLoop.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/CapitalSmallLetterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/CapitalSmallLetterTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/ConditionalLoopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/ConditionalLoopTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/VowelConsonantTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/VowelConsonantTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/IterationTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/IterationTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="_config.yml" />
@@ -41,11 +36,29 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/IterationTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="945">
+              <caret line="65" column="5" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+              <folding>
+                <element signature="e#178#179#0" expanded="true" />
+                <element signature="e#226#227#0" expanded="true" />
+                <element signature="e#286#287#0" expanded="true" />
+                <element signature="e#336#337#0" expanded="true" />
+                <element signature="e#1466#1467#0" expanded="true" />
+                <element signature="e#1525#1526#0" expanded="true" />
+                <element signature="e#1574#1575#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/ConditionalLoopTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="50" column="16" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
+            <state relative-caret-position="330">
+              <caret line="30" column="5" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
               <folding>
                 <element signature="e#503#504#0" expanded="true" />
                 <element signature="e#553#554#0" expanded="true" />
@@ -56,7 +69,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/CapitalSmallLetter.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="278">
@@ -159,7 +172,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SubstringRepeat.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/NumberGuess.java" />
         <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/NumberGuessTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/IterationTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/SumOfElementsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Iteration.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SumOfElements.java" />
@@ -168,6 +180,7 @@
         <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/ConditionalLoopTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/CapitalSmallLetterTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/CapitalSmallLetter.java" />
+        <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/IterationTest.java" />
       </list>
     </option>
   </component>
@@ -295,7 +308,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.CapitalSmallLetterTest.givenInputShouldReturnTypeOfCapitalLetter">
+  <component name="RunManager" selected="JUnit.IterationTest">
     <configuration name="CapitalSmallLetterTest.givenInputShouldReturnTypeOfCapitalLetter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_Assignments" />
       <extension name="coverage">
@@ -307,22 +320,6 @@
       <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
       <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.CapitalSmallLetterTest" />
       <option name="METHOD_NAME" value="givenInputShouldReturnTypeOfCapitalLetter" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="CapitalSmallLetterTest.givenInputShouldReturnTypeOfSmallLetter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_Assignments" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.pe1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.CapitalSmallLetterTest" />
-      <option name="METHOD_NAME" value="givenInputShouldReturnTypeOfSmallLetter" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -376,13 +373,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="IterationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pe1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.IterationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.IterationTest" />
         <item itemvalue="JUnit.CapitalSmallLetterTest.givenInputShouldReturnTypeOfCapitalLetter" />
         <item itemvalue="JUnit.ConditionalLoopTest.givenInputShouldReturnJerry" />
         <item itemvalue="JUnit.ConditionalLoopTest.givenInputShouldReturnTom" />
         <item itemvalue="JUnit.ConditionalLoopTest.givenInputShouldOutOfRange" />
-        <item itemvalue="JUnit.CapitalSmallLetterTest.givenInputShouldReturnTypeOfSmallLetter" />
       </list>
     </recent_temporary>
   </component>
@@ -495,7 +507,21 @@
       <option name="project" value="LOCAL" />
       <updated>1562925423032</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Changes in CapitalSmallLetter.java and CapitalSmallLetterTest.java">
+      <created>1563206405469</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1563206405469</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Add comments and refactor code">
+      <created>1563206507887</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1563206507887</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -547,7 +573,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.3289256" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.32561985" />
+      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.049586777" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -604,7 +630,9 @@
     <MESSAGE value="Changes in NUmberGuess.java,NumberGuessTest.java" />
     <MESSAGE value="Changes in SubstringRepeat.java,SubstringREpeatTest.java,SumOfElements.java,SumOfElementsTest.java" />
     <MESSAGE value="Changes in PalindromeTest.java and workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes in PalindromeTest.java and workspace.xml" />
+    <MESSAGE value="Changes in CapitalSmallLetter.java and CapitalSmallLetterTest.java" />
+    <MESSAGE value="Add comments and refactor code" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add comments and refactor code" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -725,13 +753,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/IterationTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="795">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/NumberGuess.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -771,13 +792,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/ConditionalLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/JunitDemoTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-255">
@@ -786,19 +800,6 @@
             <element signature="imports" expanded="true" />
             <element signature="e#1372#1373#0" expanded="true" />
             <element signature="e#1440#1441#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/ConditionalLoopTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="50" column="16" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
-          <folding>
-            <element signature="e#503#504#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-            <element signature="e#613#614#0" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -814,6 +815,42 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="278">
           <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/ConditionalLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/ConditionalLoopTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="30" column="5" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/IterationTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="945">
+          <caret line="65" column="5" selection-start-line="65" selection-start-column="5" selection-end-line="65" selection-end-column="5" />
+          <folding>
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#226#227#0" expanded="true" />
+            <element signature="e#286#287#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#1466#1467#0" expanded="true" />
+            <element signature="e#1525#1526#0" expanded="true" />
+            <element signature="e#1574#1575#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -10,8 +10,14 @@ public class IterationTest {
 
 
     @Before
-    public void setUp() {
+    public void setUp()
+    {
         this.iteration = new Iteration();
+    }
+    @BeforeClass
+    public static void beforeClass()
+    {
+        System.out.println("Before class");
     }
 
     @Test
@@ -48,8 +54,15 @@ public class IterationTest {
         assertArrayEquals(expectedResult, actualResult);
     }
     @After
-    public void tearDown(){
+    public void tearDown()
+    {
         iteration = null;
+    }
+    @AfterClass
+
+    public static void afterClass()
+    {
+        System.out.println("After class");
     }
 
 
