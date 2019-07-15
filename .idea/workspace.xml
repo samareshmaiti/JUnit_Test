@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="09c3373f-f396-4c0f-a380-28fc444cf7b6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/StringReverse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/StringReverseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/StringReverseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/SubstringRepeatTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/SubstringRepeatTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="_config.yml" />
@@ -64,15 +63,33 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/StringReverseTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="390">
               <caret line="37" column="46" lean-forward="true" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
               <folding>
                 <element signature="e#290#291#0" expanded="true" />
                 <element signature="e#324#325#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SubstringRepeat.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="70">
+              <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/SubstringRepeatTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="47" column="37" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -116,7 +133,6 @@
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/VowelConsonant.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/substringRepeat.java" />
-        <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/SubstringRepeatTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SubstringRepeat.java" />
         <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/SumOfElementsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Iteration.java" />
@@ -137,6 +153,7 @@
         <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/SortedDigitsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/StringReverse.java" />
         <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/StringReverseTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/SubstringRepeatTest.java" />
       </list>
     </option>
   </component>
@@ -264,54 +281,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.StringReverseTest.givenNullShouldThrowNullPointerException">
-    <configuration name="SortedDigitsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_Assignments" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.pe1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.SortedDigitsTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortedDigitsTest.givenNumberShouldNotZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_Assignments" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.pe1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.SortedDigitsTest" />
-      <option name="METHOD_NAME" value="givenNumberShouldNotZero" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SortedDigitsTest.givenNumberShouldReturnTheReverseOfActual" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_Assignments" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.pe1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.SortedDigitsTest" />
-      <option name="METHOD_NAME" value="givenNumberShouldReturnTheReverseOfActual" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.SubstringRepeatTest.givenStringLengthShouldBeGreaterThanZero">
     <configuration name="StringReverseTest.givenNullShouldThrowNullPointerException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_Assignments" />
       <extension name="coverage">
@@ -328,7 +298,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringReverseTest.givenStringShouldBeNotNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="SubstringRepeatTest.givenInputAndShouldProperOutput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_Assignments" />
       <extension name="coverage">
         <pattern>
@@ -337,8 +307,56 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.StringReverseTest" />
-      <option name="METHOD_NAME" value="givenStringShouldBeNotNull" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.SubstringRepeatTest" />
+      <option name="METHOD_NAME" value="givenInputAndShouldProperOutput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubstringRepeatTest.givenInputAndShowProperOutput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pe1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.SubstringRepeatTest" />
+      <option name="METHOD_NAME" value="givenInputAndShowProperOutput" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubstringRepeatTest.givenStringLengthShouldBeGreaterThanZero" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pe1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.SubstringRepeatTest" />
+      <option name="METHOD_NAME" value="givenStringLengthShouldBeGreaterThanZero" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SubstringRepeatTest.givenStringLengthShouldBeLarger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pe1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.SubstringRepeatTest" />
+      <option name="METHOD_NAME" value="givenStringLengthShouldBeLarger" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -346,11 +364,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.SubstringRepeatTest.givenStringLengthShouldBeGreaterThanZero" />
+        <item itemvalue="JUnit.SubstringRepeatTest.givenStringLengthShouldBeLarger" />
+        <item itemvalue="JUnit.SubstringRepeatTest.givenInputAndShowProperOutput" />
+        <item itemvalue="JUnit.SubstringRepeatTest.givenInputAndShouldProperOutput" />
         <item itemvalue="JUnit.StringReverseTest.givenNullShouldThrowNullPointerException" />
-        <item itemvalue="JUnit.StringReverseTest.givenStringShouldBeNotNull" />
-        <item itemvalue="JUnit.SortedDigitsTest" />
-        <item itemvalue="JUnit.SortedDigitsTest.givenNumberShouldReturnTheReverseOfActual" />
-        <item itemvalue="JUnit.SortedDigitsTest.givenNumberShouldNotZero" />
       </list>
     </recent_temporary>
   </component>
@@ -505,28 +523,17 @@
       <option name="project" value="LOCAL" />
       <updated>1563207781642</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Solve erron in StringReverse.java">
+      <created>1563208131869</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1563208131869</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SortedNumbersTest_givenNumberShouldReturnTheReverseOfActual - 2019.07.15 at 21h 44m 18s.xml">
-      <configuration name="SortedNumbersTest.givenNumberShouldReturnTheReverseOfActual" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortedNumbersTest_givenNumberShouldNotZero - 2019.07.15 at 21h 44m 33s.xml">
-      <configuration name="SortedNumbersTest.givenNumberShouldNotZero" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortedNumbersTest_givenNumberShouldNotZero - 2019.07.15 at 21h 45m 11s.xml">
-      <configuration name="SortedNumbersTest.givenNumberShouldNotZero" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortedNumbersTest_givenNumberShouldNotZero - 2019.07.15 at 21h 46m 34s.xml">
-      <configuration name="SortedNumbersTest.givenNumberShouldNotZero" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortedNumbersTest_givenNumberShouldReturnTheReverseOfActual - 2019.07.15 at 21h 46m 38s.xml">
-      <configuration name="SortedNumbersTest.givenNumberShouldReturnTheReverseOfActual" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SortedNumbersTest_givenNumberShouldReturnTheReverseOfActual - 2019.07.15 at 21h 47m 03s.xml">
-      <configuration name="SortedNumbersTest.givenNumberShouldReturnTheReverseOfActual" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SortedNumbersTest - 2019.07.15 at 21h 47m 26s.xml">
       <configuration name="SortedNumbersTest" configurationId="JUnit" />
     </history-entry>
@@ -538,6 +545,24 @@
     </history-entry>
     <history-entry file="StringReverseTest_givenStringShouldBeNotNull - 2019.07.15 at 21h 55m 20s.xml">
       <configuration name="StringReverseTest.givenStringShouldBeNotNull" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringReverseTest_givenNullShouldThrowNullPointerException - 2019.07.15 at 21h 58m 05s.xml">
+      <configuration name="StringReverseTest.givenNullShouldThrowNullPointerException" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SubstringRepeatTest_givenInputAndShouldProperOutput - 2019.07.15 at 22h 00m 09s.xml">
+      <configuration name="SubstringRepeatTest.givenInputAndShouldProperOutput" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SubstringRepeatTest_givenInputAndShowProperOutput - 2019.07.15 at 22h 00m 30s.xml">
+      <configuration name="SubstringRepeatTest.givenInputAndShowProperOutput" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SubstringRepeatTest_givenInputAndShowProperOutput - 2019.07.15 at 22h 00m 47s.xml">
+      <configuration name="SubstringRepeatTest.givenInputAndShowProperOutput" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SubstringRepeatTest_givenInputAndShowProperOutput - 2019.07.15 at 22h 01m 10s.xml">
+      <configuration name="SubstringRepeatTest.givenInputAndShowProperOutput" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SubstringRepeatTest_givenStringLengthShouldBeLarger - 2019.07.15 at 22h 01m 40s.xml">
+      <configuration name="SubstringRepeatTest.givenStringLengthShouldBeLarger" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
@@ -619,7 +644,8 @@
     <MESSAGE value="Add comments and refactor in NumberGuess program" />
     <MESSAGE value="Refactor in Palindrome.java" />
     <MESSAGE value="Rename from SortedNumbers.java to SortedDigits.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Rename from SortedNumbers.java to SortedDigits.java" />
+    <MESSAGE value="Solve erron in StringReverse.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Solve erron in StringReverse.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -672,24 +698,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/SubstringRepeatTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8">
-          <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/VowelConsonant.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SubstringRepeat.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-52">
-          <caret line="10" column="7" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
         </state>
       </provider>
     </entry>
@@ -838,12 +850,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/StringReverseTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
+        <state relative-caret-position="390">
           <caret line="37" column="46" lean-forward="true" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
           <folding>
             <element signature="e#290#291#0" expanded="true" />
             <element signature="e#324#325#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SubstringRepeat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="6" column="5" lean-forward="true" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/SubstringRepeatTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="47" column="37" selection-start-line="47" selection-start-column="37" selection-end-line="47" selection-end-column="37" />
         </state>
       </provider>
     </entry>

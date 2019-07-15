@@ -32,22 +32,30 @@ public class SubstringRepeatTest {
 
     @Test
     public void givenInputAndShouldProperOutput() {
+        //act
         String actualResult=substringRepeat1.substringConcat("Stackroute",5);
+        //assert
         assertEquals("Stackrouterouterouterouterouteroute", actualResult);
     }
     @Test
     public void givenInputAndShowProperOutput() {
-        String actualResult=substringRepeat1.substringConcat("Stackroute",5);
-        assertEquals("tackrouterouterouterouterouteroute", actualResult);
+        //act
+        String actualResult=substringRepeat1.substringConcat("Stackroute",2);
+        //assert
+        assertEquals("Stackroutetete", actualResult);
     }
     @Test
     public void givenStringLengthShouldBeLarger() {
+        //act
         String actualResult=substringRepeat1.substringConcat("Sta",5);
-        assertEquals("string must belarger than the number", actualResult);
+        //assert
+        assertEquals("string must be larger than the number", actualResult);
     }
     @Test
     public void givenStringLengthShouldBeGreaterThanZero() {
+        //act
         String actualResult=substringRepeat1.substringConcat(null,5);
+        //assert
         assertEquals("string must be non null", actualResult);
     }
 

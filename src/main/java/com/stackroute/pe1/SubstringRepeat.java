@@ -13,10 +13,7 @@ public class SubstringRepeat {
         {
             return "string must be larger than the number";
         }
-
-
         String result="";
-
         int lengthOfString=str.length();
         String sub=str.substring(lengthOfString-number,lengthOfString);
 
@@ -24,7 +21,6 @@ public class SubstringRepeat {
         {
             result=result+sub;
         }
-
         return str+result;
 
     }
