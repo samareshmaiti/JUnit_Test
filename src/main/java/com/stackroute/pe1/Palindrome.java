@@ -1,5 +1,4 @@
 package com.stackroute.pe1;
-import java.util.Scanner;
 
 public class Palindrome {
     public String palindromeCheck(int number)

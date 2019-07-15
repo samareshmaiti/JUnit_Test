@@ -17,22 +17,28 @@ public class PalindromeTest {
     @After
     public void tearDown()
     {
-        //this.palindrome=new Palindrome();
+
     }
     @Test
     public void givenInputAndShouldShowProperOutput() {
+        //act
        String actualResult=palindrome.palindromeCheck(121);
+       //assert
         assertEquals("Palindrome and sum less than 25", actualResult);
     }
     @Test
     public void givenInputAndShouldShowGiveNotNullValue()
     {
+        //act
         String actualResult=palindrome.palindromeCheck(0);
+        //assert
         assertNotNull("enter not null value");
     }
     @Test
     public void givenInputAndShouldShowProperOutputAsPalindrome() {
+        //act
         String actualResult=palindrome.palindromeCheck(89898);
+        //assert
         assertSame("Palindrome and sum less than 25", actualResult);
     }
 
