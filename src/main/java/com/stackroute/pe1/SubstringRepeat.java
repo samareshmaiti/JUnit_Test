@@ -19,9 +19,9 @@ public class SubstringRepeat {
 
         for(int i=0;i<number;i++)
         {
-            result=result+sub;
+            result+=sub;
         }
-        return str+result;
+        return str.concat(result);
 
     }
 }
