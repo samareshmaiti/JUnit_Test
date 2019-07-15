@@ -28,7 +28,7 @@ hs_err_pid*
 ### Example user template
 
 # IntelliJ project files
-*.iml
-/.idea/
+Java_Assignments.iml
+.idea/
 _config.yml
-/out/
+out/
