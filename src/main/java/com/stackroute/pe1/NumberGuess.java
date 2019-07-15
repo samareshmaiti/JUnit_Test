@@ -4,14 +4,10 @@ import java.util.Scanner;
 public class NumberGuess {
     public String  numberGuessing(int number)
     {
-        String result="fdhgj";
-        //Scanner sc = new Scanner(System.in);
+        String result="";
         int number1 = 30;
         boolean guess=false;
         do {
-
-            //System.out.println("Enter a number");
-            //int number = sc.nextInt();
 
             if (number > number1)
                 result="given number is larger";

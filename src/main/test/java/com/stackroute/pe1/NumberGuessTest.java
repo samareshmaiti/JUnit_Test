@@ -31,17 +31,23 @@ public class NumberGuessTest {
 
     @Test
     public void givenInputProperlyShouldShowProperOutput() {
+        //act
         String actualResult=numberGuess.numberGuessing(30);
+        //assert
         assertEquals("you put the correct number and number is", actualResult);
     }
     @Test
     public void givenInputSmallAndShouldShowLesser() {
+        //act
         String actualResult=numberGuess.numberGuessing(100);
+        //assert
         assertNotEquals("given number is lesser", actualResult);
     }
     @Test
     public void givenInputProperlyAndShouldShowProperOutput() {
+        //act
         String actualResult=numberGuess.numberGuessing(100);
+        //assert
         assertEquals("given number is larger", actualResult);
     }
 }
