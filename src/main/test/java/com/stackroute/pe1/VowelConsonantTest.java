@@ -31,17 +31,23 @@ public class VowelConsonantTest {
     }
     @Test
     public void givenStringShouldReturnTheResult() {
+        //act
         String actualResult = vowelConsonant.vowelOrConsonant("Hello");
+        //assert
         assertEquals("consonantvowelconsonantconsonantvowel", actualResult);
     }
     @Test
     public void givenStringShouldReturnEnterNonEmptyString() {
+        //act
         String actualResult = vowelConsonant.vowelOrConsonant(null);
+        //assert
         assertNotNull("enter non emptystring", actualResult);
     }
     @Test
     public void givenNothingShouldReturnNothing() {
+        //act
         String actualResult = vowelConsonant.vowelOrConsonant("");
+        //assert
         assertEquals("", actualResult);
     }
     }
