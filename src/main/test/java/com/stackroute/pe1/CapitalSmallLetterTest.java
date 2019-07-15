@@ -1,5 +1,6 @@
 package com.stackroute.pe1;
 
+
 import org.junit.*;
 
 import static org.junit.Assert.*;
@@ -33,28 +34,38 @@ public class CapitalSmallLetterTest {
 
     @Test
     public void givenInputShouldReturnTypeOfCapitalLetter() {
+            //act
             String actualResult=capitalSmallLetter.findType('A');
+            //assert
         assertEquals("Capital Letter", actualResult);
     }
 
     @Test
     public void givenInputShouldReturnTypeOfSmallLetter() {
+            //act
         String actualResult=capitalSmallLetter.findType('b');
-        assertEquals("small letter", actualResult);
+        //assert
+        assertEquals("Small Letter", actualResult);
     }
     @Test
     public void givenInputShouldReturnTypeOfDigit() {
+            //act
         String actualResult=capitalSmallLetter.findType('8');
+        //assert
         assertEquals("Digit", actualResult);
     }
     @Test
     public void givenInputShouldReturnTypeOfSpecialCharacter() {
+            //act
         String actualResult=capitalSmallLetter.findType('!');
+        //assert
         assertEquals("Special Character", actualResult);
     }
     @Test
     public void givenInputShouldBeNotNull() {
+            //act
         String actualResult = capitalSmallLetter.findType('.');
+        //assert
         assertNotNull("string should be not nul",actualResult);
     }
 }

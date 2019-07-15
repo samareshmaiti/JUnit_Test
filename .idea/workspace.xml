@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09c3373f-f396-4c0f-a380-28fc444cf7b6" name="Default Changelist" comment="Changes in NUmberGuess.java,NumberGuessTest.java">
-      <change afterPath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/SumOfElementsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SubstringRepeat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SubstringRepeat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SumOfElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SumOfElements.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/PalindromeTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/PalindromeTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/SubstringRepeatTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/SubstringRepeatTest.java" afterDir="false" />
+    <list default="true" id="09c3373f-f396-4c0f-a380-28fc444cf7b6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/CapitalSmallLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/CapitalSmallLetter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/ConditionalLoop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/ConditionalLoop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/CapitalSmallLetterTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/CapitalSmallLetterTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/ConditionalLoopTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/ConditionalLoopTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/VowelConsonantTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/VowelConsonantTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="_config.yml" />
@@ -22,11 +23,80 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/CapitalSmallLetterTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="885">
+              <caret line="67" column="16" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/ConditionalLoop.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/ConditionalLoopTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="630">
+              <caret line="50" column="16" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
+              <folding>
+                <element signature="e#503#504#0" expanded="true" />
+                <element signature="e#553#554#0" expanded="true" />
+                <element signature="e#613#614#0" expanded="true" />
+                <element signature="e#662#663#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/CapitalSmallLetter.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SumOfElements.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="24" column="43" lean-forward="true" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+            <state relative-caret-position="30">
+              <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/VowelConsonantTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="83">
+              <caret line="34" column="31" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+              <folding>
+                <element signature="e#295#296#0" expanded="true" />
+                <element signature="e#330#331#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/JunitDemoTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-255">
+              <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#1372#1373#0" expanded="true" />
+                <element signature="e#1440#1441#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -35,7 +105,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/SumOfElementsTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="210">
-              <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+              <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -75,7 +145,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/JunitDemo.java" />
         <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/AddIntegersTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/JunitDemoTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/CapitalSmallLetter.java" />
         <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/StringReverseTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/StringReverse.java" />
         <option value="$PROJECT_DIR$/README.md" />
@@ -83,10 +152,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/VowelConsonant.java" />
         <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/SortedNumbersTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SortedNumbers.java" />
-        <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/VowelConsonantTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/CapitalSmallLetterTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/ConditionalLoopTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/ConditionalLoop.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Palindrome.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/substringRepeat.java" />
         <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/SubstringRepeatTest.java" />
@@ -98,8 +163,19 @@
         <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/SumOfElementsTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Iteration.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SumOfElements.java" />
+        <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/VowelConsonantTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/ConditionalLoop.java" />
+        <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/ConditionalLoopTest.java" />
+        <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/CapitalSmallLetterTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/CapitalSmallLetter.java" />
       </list>
     </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="80" />
@@ -113,6 +189,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -170,12 +247,15 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="pe1" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Java_Assignments" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -183,7 +263,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Junit" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.24849217" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -215,8 +295,40 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.IterationTest">
-    <configuration name="ConditionalLoopTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.CapitalSmallLetterTest.givenInputShouldReturnTypeOfCapitalLetter">
+    <configuration name="CapitalSmallLetterTest.givenInputShouldReturnTypeOfCapitalLetter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pe1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.CapitalSmallLetterTest" />
+      <option name="METHOD_NAME" value="givenInputShouldReturnTypeOfCapitalLetter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CapitalSmallLetterTest.givenInputShouldReturnTypeOfSmallLetter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pe1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.CapitalSmallLetterTest" />
+      <option name="METHOD_NAME" value="givenInputShouldReturnTypeOfSmallLetter" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConditionalLoopTest.givenInputShouldOutOfRange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_Assignments" />
       <extension name="coverage">
         <pattern>
@@ -226,43 +338,13 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
       <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.ConditionalLoopTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IterationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_Assignments" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.pe1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.IterationTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="IterationTest.givenNumberShouldReturnAnArray" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_Assignments" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.pe1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.IterationTest" />
-      <option name="METHOD_NAME" value="givenNumberShouldReturnAnArray" />
+      <option name="METHOD_NAME" value="givenInputShouldOutOfRange" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberGuessTest.givenInputProperlyAndShouldShowProperOutput" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ConditionalLoopTest.givenInputShouldReturnJerry" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_Assignments" />
       <extension name="coverage">
         <pattern>
@@ -271,14 +353,14 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.NumberGuessTest" />
-      <option name="METHOD_NAME" value="givenInputProperlyAndShouldShowProperOutput" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.ConditionalLoopTest" />
+      <option name="METHOD_NAME" value="givenInputShouldReturnJerry" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberGuessTest.givenInputSmallAndShouldShowLesser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ConditionalLoopTest.givenInputShouldReturnTom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_Assignments" />
       <extension name="coverage">
         <pattern>
@@ -287,8 +369,8 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.NumberGuessTest" />
-      <option name="METHOD_NAME" value="givenInputSmallAndShouldShowLesser" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.ConditionalLoopTest" />
+      <option name="METHOD_NAME" value="givenInputShouldReturnTom" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -296,11 +378,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.IterationTest" />
-        <item itemvalue="JUnit.IterationTest.givenNumberShouldReturnAnArray" />
-        <item itemvalue="JUnit.NumberGuessTest.givenInputSmallAndShouldShowLesser" />
-        <item itemvalue="JUnit.NumberGuessTest.givenInputProperlyAndShouldShowProperOutput" />
-        <item itemvalue="JUnit.ConditionalLoopTest" />
+        <item itemvalue="JUnit.CapitalSmallLetterTest.givenInputShouldReturnTypeOfCapitalLetter" />
+        <item itemvalue="JUnit.ConditionalLoopTest.givenInputShouldReturnJerry" />
+        <item itemvalue="JUnit.ConditionalLoopTest.givenInputShouldReturnTom" />
+        <item itemvalue="JUnit.ConditionalLoopTest.givenInputShouldOutOfRange" />
+        <item itemvalue="JUnit.CapitalSmallLetterTest.givenInputShouldReturnTypeOfSmallLetter" />
       </list>
     </recent_temporary>
   </component>
@@ -399,52 +481,66 @@
       <option name="project" value="LOCAL" />
       <updated>1562925219525</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Changes in SubstringRepeat.java,SubstringREpeatTest.java,SumOfElements.java,SumOfElementsTest.java">
+      <created>1562925350207</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1562925350207</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Changes in PalindromeTest.java and workspace.xml">
+      <created>1562925423032</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1562925423032</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NumberGuessTest_givenInputProperlyAndShouldShowProperOutput - 2019.07.12 at 14h 03m 55s.xml">
-      <configuration name="NumberGuessTest.givenInputProperlyAndShouldShowProperOutput" configurationId="JUnit" />
+    <history-entry file="ConditionalLoopTest_givenInputShouldOutOfRange - 2019.07.15 at 21h 21m 35s.xml">
+      <configuration name="ConditionalLoopTest.givenInputShouldOutOfRange" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NumberGuessTest_givenInputProperlyAndShouldShowProperOutput - 2019.07.12 at 14h 05m 10s.xml">
-      <configuration name="NumberGuessTest.givenInputProperlyAndShouldShowProperOutput" configurationId="JUnit" />
+    <history-entry file="ConditionalLoopTest_givenInputShouldReturnTom - 2019.07.15 at 21h 21m 39s.xml">
+      <configuration name="ConditionalLoopTest.givenInputShouldReturnTom" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NumberGuessTest_givenInputProperlyAndShouldShowProperOutput - 2019.07.12 at 14h 06m 36s.xml">
-      <configuration name="NumberGuessTest.givenInputProperlyAndShouldShowProperOutput" configurationId="JUnit" />
+    <history-entry file="ConditionalLoopTest_givenInputShouldReturnJerry - 2019.07.15 at 21h 21m 54s.xml">
+      <configuration name="ConditionalLoopTest.givenInputShouldReturnJerry" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NumberGuessTest_givenInputProperlyAndShouldShowProperOutput - 2019.07.12 at 14h 06m 43s.xml">
-      <configuration name="NumberGuessTest.givenInputProperlyAndShouldShowProperOutput" configurationId="JUnit" />
+    <history-entry file="ConditionalLoopTest_givenInputShouldReturnJerry - 2019.07.15 at 21h 22m 02s.xml">
+      <configuration name="ConditionalLoopTest.givenInputShouldReturnJerry" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NumberGuessTest_givenInputProperlyAndShouldShowProperOutput - 2019.07.12 at 14h 06m 57s.xml">
-      <configuration name="NumberGuessTest.givenInputProperlyAndShouldShowProperOutput" configurationId="JUnit" />
+    <history-entry file="ConditionalLoopTest_givenInputShouldReturnTom - 2019.07.15 at 21h 22m 24s.xml">
+      <configuration name="ConditionalLoopTest.givenInputShouldReturnTom" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NumberGuessTest_givenInputSmallAndShouldShowLesser - 2019.07.12 at 14h 08m 20s.xml">
-      <configuration name="NumberGuessTest.givenInputSmallAndShouldShowLesser" configurationId="JUnit" />
+    <history-entry file="ConditionalLoopTest_givenInputShouldReturnTom - 2019.07.15 at 21h 23m 32s.xml">
+      <configuration name="ConditionalLoopTest.givenInputShouldReturnTom" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NumberGuessTest_givenInputSmallAndShouldShowLesser - 2019.07.12 at 14h 08m 31s.xml">
-      <configuration name="NumberGuessTest.givenInputSmallAndShouldShowLesser" configurationId="JUnit" />
+    <history-entry file="ConditionalLoopTest_givenInputShouldOutOfRange - 2019.07.15 at 21h 24m 57s.xml">
+      <configuration name="ConditionalLoopTest.givenInputShouldOutOfRange" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NumberGuessTest_givenInputProperlyAndShouldShowProperOutput - 2019.07.12 at 14h 09m 00s.xml">
-      <configuration name="NumberGuessTest.givenInputProperlyAndShouldShowProperOutput" configurationId="JUnit" />
+    <history-entry file="ConditionalLoopTest_givenInputShouldReturnTom - 2019.07.15 at 21h 25m 01s.xml">
+      <configuration name="ConditionalLoopTest.givenInputShouldReturnTom" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="NumberGuessTest_givenInputSmallAndShouldShowLesser - 2019.07.12 at 14h 13m 11s.xml">
-      <configuration name="NumberGuessTest.givenInputSmallAndShouldShowLesser" configurationId="JUnit" />
+    <history-entry file="ConditionalLoopTest_givenInputShouldReturnJerry - 2019.07.15 at 21h 25m 05s.xml">
+      <configuration name="ConditionalLoopTest.givenInputShouldReturnJerry" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="IterationTest - 2019.07.12 at 14h 44m 16s.xml">
-      <configuration name="IterationTest" configurationId="JUnit" />
+    <history-entry file="CapitalSmallLetterTest_givenInputShouldReturnTypeOfCapitalLetter - 2019.07.15 at 21h 26m 26s.xml">
+      <configuration name="CapitalSmallLetterTest.givenInputShouldReturnTypeOfCapitalLetter" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="27" width="1296" height="741" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Designer" order="0" />
       <window_info id="UI Designer" order="1" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2896" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2992" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="SonarLint" weight="0.3289256" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.3303411" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
       <window_info anchor="bottom" id="Messages" order="2" weight="0.32561985" />
@@ -456,10 +552,11 @@
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
+      <window_info anchor="bottom" id="SonarLint" order="11" weight="0.3289256" />
       <window_info anchor="right" id="Theme Preview" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Palette&#9;" order="2" />
-      <window_info anchor="right" id="Maven" order="3" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.3296" />
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
@@ -505,7 +602,9 @@
     <MESSAGE value="Changing file name to Capital letter" />
     <MESSAGE value="Changes in iteration.java,IterationTest.java" />
     <MESSAGE value="Changes in NUmberGuess.java,NumberGuessTest.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Changes in NUmberGuess.java,NumberGuessTest.java" />
+    <MESSAGE value="Changes in SubstringRepeat.java,SubstringREpeatTest.java,SumOfElements.java,SumOfElementsTest.java" />
+    <MESSAGE value="Changes in PalindromeTest.java and workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Changes in PalindromeTest.java and workspace.xml" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -552,62 +651,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/JunitDemoTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1372#1373#0" expanded="true" />
-            <element signature="e#1440#1441#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/ConditionalLoopTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="27" column="35" selection-start-line="27" selection-start-column="35" selection-end-line="27" selection-end-column="35" />
-          <folding>
-            <element signature="e#503#504#0" expanded="true" />
-            <element signature="e#553#554#0" expanded="true" />
-            <element signature="e#613#614#0" expanded="true" />
-            <element signature="e#662#663#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/Palindrome.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/CapitalSmallLetter.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="19" selection-start-line="28" selection-start-column="19" selection-end-line="28" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/CapitalSmallLetterTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
-          <folding>
-            <element signature="e#560#561#0" expanded="true" />
-            <element signature="e#618#619#0" expanded="true" />
-            <element signature="e#690#691#0" expanded="true" />
-            <element signature="e#747#748#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/ConditionalLoop.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="21" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -622,17 +669,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-8">
           <caret line="17" column="10" selection-start-line="17" selection-start-column="10" selection-end-line="17" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/VowelConsonantTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="34" column="30" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
-          <folding>
-            <element signature="e#295#296#0" expanded="true" />
-            <element signature="e#330#331#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -710,17 +746,74 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/SumOfElementsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SumOfElements.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="16" column="13" lean-forward="true" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        <state relative-caret-position="30">
+          <caret line="2" column="28" selection-start-line="2" selection-start-column="28" selection-end-line="2" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SumOfElements.java">
+    <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/SumOfElementsTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="43" lean-forward="true" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+        <state relative-caret-position="210">
+          <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/VowelConsonantTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="34" column="31" lean-forward="true" selection-start-line="34" selection-start-column="31" selection-end-line="34" selection-end-column="31" />
+          <folding>
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#330#331#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/ConditionalLoop.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/JunitDemoTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="16" column="5" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#1372#1373#0" expanded="true" />
+            <element signature="e#1440#1441#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/ConditionalLoopTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="50" column="16" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
+          <folding>
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#662#663#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/CapitalSmallLetterTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="885">
+          <caret line="67" column="16" selection-start-line="67" selection-start-column="16" selection-end-line="67" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/CapitalSmallLetter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
         </state>
       </provider>
     </entry>

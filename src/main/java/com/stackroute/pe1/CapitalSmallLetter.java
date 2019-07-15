@@ -1,34 +1,27 @@
 package com.stackroute.pe1;
-
-import java.util.Scanner;
-
 public class CapitalSmallLetter {
 
     public String findType(char ch)
     {
-        String result="";
 
         if(ch>=65 && ch<=90)
         {
-            result= "Capital Letter";
+            return "Capital Letter";
         }
         if(ch>=97 && ch<=122)
         {
-            result= "Small Letter";
+            return "Small Letter";
         }
         if(ch>=48 && ch<=57)
         {
-            result= "Digit";
+            return "Digit";
         }
         if(ch>=32 && ch<=47) {
 
-            result = "Special Character";
-
+            return "Special Character";
         }
-        else
-            result= "enter a input";
-        return result;
 
-
+       else
+          return "give proper input";
     }
 }
