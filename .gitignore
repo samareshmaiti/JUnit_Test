@@ -29,6 +29,6 @@ hs_err_pid*
 
 # IntelliJ project files
 *.iml
-.idea/
+/.idea/
 _config.yml
 /out/
