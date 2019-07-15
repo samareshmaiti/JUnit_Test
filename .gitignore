@@ -26,9 +26,14 @@ hs_err_pid*
 
 ### Example user template template
 ### Example user template
-
-# IntelliJ project files
 Java_Assignments.iml
+# IntelliJ project files
+
+
+
+
+
 .idea/
-_config.yml
+/_config.yml
+
 out/
