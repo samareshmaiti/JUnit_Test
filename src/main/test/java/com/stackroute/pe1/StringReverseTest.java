@@ -32,17 +32,25 @@ public class StringReverseTest {
 
     @Test
     public void givenNullShouldThrowNullPointerException() {
-        String actualResult = stringReverse.reverseOfString(null);
+        //act
+        String actualResult = stringReverse.reverseOfString("samar");
+        //assert
+        assertNotEquals("should be same","rama","ramas");
+
     }
     @Test
     public void givenStringShouldReturnTheReverse() {
+        //act
         String actualResult = stringReverse.reverseOfString("Hello");
+        //assert
         assertEquals("olleH", actualResult);
     }
     @Test
     public void givenStringShouldBeNotNull() {
+        //act
         String actualResult = stringReverse.reverseOfString(null);
-        assertEquals("string should be not nul",actualResult);
+        //assert
+        assertNotNull("string should be not nul",actualResult);
     }
 
 }

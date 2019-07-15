@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="09c3373f-f396-4c0f-a380-28fc444cf7b6" name="Default Changelist" comment="Refactor in SortedDigits.java">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SortedNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SortedDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/SortedNumbersTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/SortedDigitsTest.java" afterDir="false" />
+    <list default="true" id="09c3373f-f396-4c0f-a380-28fc444cf7b6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/StringReverse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/StringReverse.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/StringReverseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/StringReverseTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="_config.yml" />
@@ -38,7 +37,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/SortedDigitsTest.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="525">
@@ -52,6 +51,28 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
               <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/StringReverse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/StringReverseTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="37" column="46" lean-forward="true" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
+              <folding>
+                <element signature="e#290#291#0" expanded="true" />
+                <element signature="e#324#325#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -91,8 +112,6 @@
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/JunitDemo.java" />
         <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/AddIntegersTest.java" />
         <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/JunitDemoTest.java" />
-        <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/StringReverseTest.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/StringReverse.java" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/.gitignore" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/VowelConsonant.java" />
@@ -116,6 +135,8 @@
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SortedNumbers.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SortedDigits.java" />
         <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/SortedDigitsTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/stackroute/pe1/StringReverse.java" />
+        <option value="$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/StringReverseTest.java" />
       </list>
     </option>
   </component>
@@ -243,37 +264,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
-    <configuration name="NumberGuessTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_Assignments" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.pe1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.NumberGuessTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="PalindromeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Java_Assignments" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.stackroute.pe1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
-      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.PalindromeTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.StringReverseTest.givenNullShouldThrowNullPointerException">
     <configuration name="SortedDigitsTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Java_Assignments" />
       <extension name="coverage">
@@ -321,13 +312,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StringReverseTest.givenNullShouldThrowNullPointerException" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pe1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.StringReverseTest" />
+      <option name="METHOD_NAME" value="givenNullShouldThrowNullPointerException" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringReverseTest.givenStringShouldBeNotNull" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Java_Assignments" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.stackroute.pe1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.stackroute.pe1" />
+      <option name="MAIN_CLASS_NAME" value="com.stackroute.pe1.StringReverseTest" />
+      <option name="METHOD_NAME" value="givenStringShouldBeNotNull" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.StringReverseTest.givenNullShouldThrowNullPointerException" />
+        <item itemvalue="JUnit.StringReverseTest.givenStringShouldBeNotNull" />
         <item itemvalue="JUnit.SortedDigitsTest" />
         <item itemvalue="JUnit.SortedDigitsTest.givenNumberShouldReturnTheReverseOfActual" />
         <item itemvalue="JUnit.SortedDigitsTest.givenNumberShouldNotZero" />
-        <item itemvalue="JUnit.PalindromeTest" />
-        <item itemvalue="JUnit.NumberGuessTest" />
       </list>
     </recent_temporary>
   </component>
@@ -475,16 +498,17 @@
       <option name="project" value="LOCAL" />
       <updated>1563207231941</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Rename from SortedNumbers.java to SortedDigits.java">
+      <created>1563207781642</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1563207781642</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="NumberGuessTest - 2019.07.15 at 21h 39m 27s.xml">
-      <configuration name="NumberGuessTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="PalindromeTest - 2019.07.15 at 21h 42m 22s.xml">
-      <configuration name="PalindromeTest" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SortedNumbersTest_givenNumberShouldReturnTheReverseOfActual - 2019.07.15 at 21h 44m 18s.xml">
       <configuration name="SortedNumbersTest.givenNumberShouldReturnTheReverseOfActual" configurationId="JUnit" />
     </history-entry>
@@ -509,6 +533,12 @@
     <history-entry file="SortedNumbersTest - 2019.07.15 at 21h 47m 54s.xml">
       <configuration name="SortedNumbersTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SortedDigitsTest - 2019.07.15 at 21h 51m 42s.xml">
+      <configuration name="SortedDigitsTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="StringReverseTest_givenStringShouldBeNotNull - 2019.07.15 at 21h 55m 20s.xml">
+      <configuration name="StringReverseTest.givenStringShouldBeNotNull" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="70" y="27" width="1296" height="741" extended-state="6" />
@@ -519,7 +549,7 @@
       <window_info id="Capture Tool" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
       <window_info id="Image Layers" order="4" />
-      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.2992" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.2992" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" order="0" weight="0.3303411" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
@@ -527,7 +557,7 @@
       <window_info anchor="bottom" id="Version Control" order="3" weight="0.3289256" />
       <window_info anchor="bottom" id="Message" order="4" />
       <window_info anchor="bottom" id="Find" order="5" />
-      <window_info anchor="bottom" id="Run" order="6" visible="true" weight="0.21487603" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.21487603" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -588,7 +618,8 @@
     <MESSAGE value="Add comments and refactor code" />
     <MESSAGE value="Add comments and refactor in NumberGuess program" />
     <MESSAGE value="Refactor in Palindrome.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactor in Palindrome.java" />
+    <MESSAGE value="Rename from SortedNumbers.java to SortedDigits.java" />
+    <option name="LAST_COMMIT_MESSAGE" value="Rename from SortedNumbers.java to SortedDigits.java" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -652,24 +683,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="8" column="44" selection-start-line="8" selection-start-column="44" selection-end-line="8" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/StringReverse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="5" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/StringReverseTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="370">
-          <caret line="41" column="9" selection-start-line="41" selection-start-column="9" selection-end-line="41" selection-end-column="9" />
-          <folding>
-            <element signature="e#290#291#0" expanded="true" />
-            <element signature="e#324#325#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -802,6 +815,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/SortedDigitsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/SortedDigits.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -809,10 +829,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/SortedDigitsTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/stackroute/pe1/StringReverse.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="49" column="16" selection-start-line="49" selection-start-column="16" selection-end-line="49" selection-end-column="16" />
+        <state relative-caret-position="90">
+          <caret line="6" column="8" selection-start-line="6" selection-start-column="8" selection-end-line="6" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/java/com/stackroute/pe1/StringReverseTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="37" column="46" lean-forward="true" selection-start-line="37" selection-start-column="46" selection-end-line="37" selection-end-column="46" />
+          <folding>
+            <element signature="e#290#291#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
