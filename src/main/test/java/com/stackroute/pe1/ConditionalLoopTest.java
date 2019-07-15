@@ -32,18 +32,24 @@ public class ConditionalLoopTest {
 
     @Test
     public void givenInputShouldOutOfRange() {
+        //act
         String actualResult=conditionalLoop.findResult(100);
+        //assert
         assertEquals("Out of range", actualResult);
     }
     @Test
     public void givenInputShouldReturnTom() {
-        String actualResult=conditionalLoop.findResult(30);
+        //act
+        String actualResult=conditionalLoop.findResult(24);
+        //assert
         assertEquals("Tom", actualResult);
     }
     @Test
     public void givenInputShouldReturnJerry() {
+        //act
         String actualResult=conditionalLoop.findResult(25);
-        assertEquals("Jerr", actualResult);
+        //assert
+        assertEquals("Jerry", actualResult);
     }
 
 

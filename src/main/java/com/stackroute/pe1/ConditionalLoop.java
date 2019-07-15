@@ -4,19 +4,17 @@ import java.util.Scanner;
 public class ConditionalLoop {
     public String findResult(int number)
     {
-        String result="";
-
 
         if((number>=20 && number<=30) &&(number%2==0))
         {
-            result="Tom";
+            return "Tom";
         }
         if((number>=20 && number<=30) &&(number%2!=0))
         {
-            result="Jerry";
+            return "Jerry";
         }
         else
-            result="Out of range";
-        return result;
+            return "Out of range";
+
     }
 }
